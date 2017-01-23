@@ -14,6 +14,7 @@ Hardware Used:
 + 4 x Push Buttons
 + 1 x Speaker
 + 1 x MicroSD Card Reader
++ 1 x uLCD Screen 
 + 1 x RGB LED
 
 Software Used:
