@@ -1,5 +1,5 @@
 # RobotFrogger
-A play on the classic arcade game Frogger written in C++ that can be run on an ARM MBED Compiler. 
+A play on the classic arcade game Frogger written in C++ that can be run on an ARM MBED Microcontroller. 
 
 Project for ECE 2035 - Programming Hardware/Software Systems
 
@@ -8,7 +8,7 @@ Objective: Collect as many candies as possible while making it to the other side
 ![alt tag](https://cloud.githubusercontent.com/assets/16136431/22209660/4ac737c4-e155-11e6-9797-cc55da1ccea4.jpg)
 
 Hardware Used:
-+ ARM MBED Compiler
++ ARM MBED Microcontroller 
 + 1 x Breadboard
 + 1 x Accelerometer 
 + 4 x Push Buttons
