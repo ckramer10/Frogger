@@ -13,6 +13,7 @@ Hardware Used:
 + 1 x Accelerometer 
 + 4 x Push Buttons
 + 1 x Speaker
++ 1 x MicroSD Card Reader
 + 1 x RGB LED
 
 Software Used:
@@ -23,4 +24,4 @@ Features:
 + 3 Levels of Difficulty (Speed of Cars)
 + One-time invincibilty use that is activated by pressing all 4 push buttons at once (LED will turn on when invincible).
 + Start menu
-+ High Score Menu
++ Game Over Menu
